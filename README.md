@@ -17,7 +17,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://https://www.linkedin.com/in/k-rishabh-319833193/"><img align="left" width="150" height="146" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fanime&psig=AOvVaw2d1UDmcpNf9TX-pgeWkiNy&ust=1651713167486000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKi5gZfVxPcCFQAAAAAdAAAAABAO"></a>
+## Find me around the web 🌎 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/DeBBINXN86r8Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-anime-DeBBINXN86r8Q">via GIPHY</a></p>
 - <a href="https://www.leetcode.com/k_rishabh/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/sonicBoom/">Codeforces</a> 🙃
 
