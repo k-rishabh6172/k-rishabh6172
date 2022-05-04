@@ -17,10 +17,9 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/tanyarajhans/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Struggling on <a href="https://www.leetcode.com/tanyarajhans7/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/tanyarajhans7/">Codeforces</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/tanyarajhans/">LinkedIn</a> 😇
+## Find me around the web 🌎 <a href="https://https://www.linkedin.com/in/k-rishabh-319833193/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- <a href="https://www.leetcode.com/k_rishabh/">LeetCode</a> 😍
+- Practising on <a href="https://www.codeforces.com/profile/sonicBoom/">Codeforces</a> 🙃
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/k-rishabh6172/Actions/blob/output/github-contribution-grid-snake.svg)
