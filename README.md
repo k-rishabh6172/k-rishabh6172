@@ -16,8 +16,9 @@
 ✉️ &nbsp;You can contact me on krishabh07022019@gmail.com
 
 
+<iframe src="https://giphy.com/embed/DeBBINXN86r8Q" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-anime-DeBBINXN86r8Q">via GIPHY</a></p>
 
-## Find me around the web 🌎 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/DeBBINXN86r8Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-anime-DeBBINXN86r8Q">via GIPHY</a></p>
+
 - <a href="https://www.leetcode.com/k_rishabh/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/sonicBoom/">Codeforces</a> 🙃
 
