@@ -15,7 +15,7 @@
 🌱 &nbsp;I'm on track for learning more about Systems Design and Algorithms.\
 ✉️ &nbsp;You can contact me on krishabh07022019@gmail.com
 
-<img align='left' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width='200'>
+<img align='rishabh' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width='200'>
 
 - <a href="https://www.leetcode.com/k_rishabh/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/sonicBoom/">Codeforces</a> 🙃
