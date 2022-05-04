@@ -1,11 +1,9 @@
 # Hi, I'm Rishabh 👋🏾 👩🏾‍💻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/k_rishabh61727?label=Follow)](https://twitter.com/intent/follow?screen_name=k_rishabh6172)
-[![Linkedin: Tanya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyarajhans/)](https://www.linkedin.com/in/tanyarajhans/)
-![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/k_rishabh6172?label=Follow)](https://twitter.com/intent/follow?screen_name=k_rishabh6172)
+[![Linkedin: Rishabh](https://img.shields.io/badge/-Rishabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/k-rishabh-319833193/)](https://https://www.linkedin.com/in/k-rishabh-319833193/)
+![GitHub followers](https://img.shields.io/github/followers/k-rishabh6172?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">  
-
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
