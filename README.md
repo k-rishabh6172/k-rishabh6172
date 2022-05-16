@@ -22,3 +22,11 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/k-rishabh6172/k-rishabh6172/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+<div class="sketchfab-embed-wrapper"> <iframe title="1984 Apple Macintosh 128k (Expanded)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/544a03b89d72462c9b1480dcae3d2530/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/1984-apple-macintosh-128k-expanded-544a03b89d72462c9b1480dcae3d2530?utm_medium=embed&utm_campaign=share-popup&utm_content=544a03b89d72462c9b1480dcae3d2530" target="_blank" style="font-weight: bold; color: #1CAAD9;"> 1984 Apple Macintosh 128k (Expanded) </a> by <a href="https://sketchfab.com/d0rkmushr00m?utm_medium=embed&utm_campaign=share-popup&utm_content=544a03b89d72462c9b1480dcae3d2530" target="_blank" style="font-weight: bold; color: #1CAAD9;"> d0rkmushr00m </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=544a03b89d72462c9b1480dcae3d2530" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
