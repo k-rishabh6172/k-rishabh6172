@@ -5,18 +5,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/k-rishabh6172?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=k-rishabh6172&color=brightgreen">  
 
-<pre align=""  > <b> Hii ! This is Rishabh! </b>🙋‍♀️</pre>
-
 <br>
 <br>
 
-
-
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
-  </a>
-</h1>
+![option](giphy.gif)
 
 <!-- Cool Giphy Start here -->
 
