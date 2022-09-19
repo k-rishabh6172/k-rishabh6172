@@ -9,7 +9,8 @@
 
 <br>
 <br>
-<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Risabh, Competitive programming and Machine learning enthusiast!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif" /></a></p>
+
+
 
 <h1 align="center">
   <a href="#">
