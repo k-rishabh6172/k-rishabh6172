@@ -5,28 +5,98 @@
 ![GitHub followers](https://img.shields.io/github/followers/k-rishabh6172?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=k-rishabh6172&color=brightgreen">  
 
+<pre align=""  > <b> Hii ! This is Rishabh! </b>🙋‍♀️</pre>
 
-## 👨🏻‍💻 &nbsp;About Me
+<br>
+<br>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Risabh, Competitive programming and Machine learning enthusiast!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif" /></a></p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
+  </a>
+</h1>
 
-🎓 &nbsp;I am a Data Science and Artificial Intelligence Sophomore @IIIT Naya Raipur\
-💡 &nbsp;I enjoy giving algorithmic contests and solving problems. Currently learning App development in Dart/Flutter.\
-🌱 &nbsp;I'm on track for learning more about Systems Design and Algorithms.\
-✉️ &nbsp;You can contact me on krishabh07022019@gmail.com
+<!-- Cool Giphy Start here -->
 
-<img align='rishabh' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width='200'>
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
 
-- <a href="https://www.leetcode.com/k_rishabh/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/sonicBoom/">Codeforces</a> 🙃
+<!-- End here -->
 
-## Watch my contributions get eaten by a snake 🐍
+- 🔭 &nbsp; ⇢ &nbsp; Learning Web Development and Machine learning👩‍💻
+- 📋 &nbsp; ⇢ &nbsp; Griding on Codeforces [Codeforces](https://codeforces.com/profile/sonicBoom) ⌛
+- 📋 &nbsp; ⇢ &nbsp; Practising DS and Algorithms on [Leetcode](https://leetcode.com/k_rishabh/) ⌛
+- 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects related to Computer Vision and Deep Learning🎉
+- 🙋‍♀️ &nbsp; ⇢ &nbsp; Drop me a mail on [krishabh07022019@gmail.com]()
+
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![snake gif](https://github.com/k-rishabh6172/k-rishabh6172/blob/output/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br/>
+
+<!-- End here ... -->
+
+<br>
+
+<!-- Connect with me,languages & tools icons. -->
+
+<!-- Start Here   -->
 
 
 
+### 👩‍💻 Languages and Tools
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+
+
+<!-- End here -->
+
+<!-- Blog Post with dynamically update using GitHub Workflow -->
+
+<!-- Start here -->
+<!--
+### 📕 Latest Blog Posts
+-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ➡️ [more blog posts...]() -->
+
+<!-- End here -->
+
+<!-- YouTube Videos with dynamically update using GitHub Workflow -->
+
+<!-- Start here -->
+<!-- ### 📕 Latest YouTube Videos -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<!-- End here -->
+
+<!-- Adding git Stats, Streaks to take your profile on the another level. -->
+
+
+<!-- GitHub Stats  Start here -->
+
+### 👩‍💻 Account Statistics
+    
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=k-rishabh6172&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- End here -->
+
+<!-- GitHub Straks  Start here -->
+<!--
+<details>
+  <summary> 📈 &nbsp; <i>My Streak</i></summary>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=k-rishabh6172&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+</details>
+-->
+<!-- End here -->
 
 
 
-
-<div class="sketchfab-embed-wrapper"> <iframe title="1984 Apple Macintosh 128k (Expanded)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/544a03b89d72462c9b1480dcae3d2530/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/1984-apple-macintosh-128k-expanded-544a03b89d72462c9b1480dcae3d2530?utm_medium=embed&utm_campaign=share-popup&utm_content=544a03b89d72462c9b1480dcae3d2530" target="_blank" style="font-weight: bold; color: #1CAAD9;"> 1984 Apple Macintosh 128k (Expanded) </a> by <a href="https://sketchfab.com/d0rkmushr00m?utm_medium=embed&utm_campaign=share-popup&utm_content=544a03b89d72462c9b1480dcae3d2530" target="_blank" style="font-weight: bold; color: #1CAAD9;"> d0rkmushr00m </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=544a03b89d72462c9b1480dcae3d2530" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
