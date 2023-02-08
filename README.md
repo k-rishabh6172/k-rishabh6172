@@ -1,95 +1,73 @@
-# Hi, I'm Rishabh 👋🏾 👩🏾‍💻
+# **Heya! I'm Rishabh** 
+<div align = "justify">
+  <a href = "#">
+    <img src="https://komarev.com/ghpvc/?username=k-rishabh6172&color=blue&style=for-the-badge">
+  </a>
+</div>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/k_rishabh6172?label=Follow)](https://twitter.com/intent/follow?screen_name=k_rishabh6172)
-[![Linkedin: Rishabh](https://img.shields.io/badge/-Rishabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/k-rishabh-319833193/)](https://https://www.linkedin.com/in/k-rishabh-319833193/)
-![GitHub followers](https://img.shields.io/github/followers/k-rishabh6172?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=k-rishabh6172&color=brightgreen">  
+#### **About Me:**
+rishabh go weeee...
 
-<br>
-<br>
-
-![option](giphy.gif)
-
-<!-- Cool Giphy Start here -->
-
-<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
-
-<!-- End here -->
-
-- 🔭 &nbsp; ⇢ &nbsp; Learning Web Development and Machine learning👩‍💻
-- 📋 &nbsp; ⇢ &nbsp; Griding on Codeforces [Codeforces](https://codeforces.com/profile/sonicBoom) ⌛
-- 📋 &nbsp; ⇢ &nbsp; Practising DS and Algorithms on [Leetcode](https://leetcode.com/k_rishabh/) ⌛
-- 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects related to Computer Vision and Deep Learning🎉
-- 🙋‍♀️ &nbsp; ⇢ &nbsp; Drop me a mail on [krishabh07022019@gmail.com]()
-
-
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![snake gif](https://github.com/k-rishabh6172/k-rishabh6172/blob/output/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<br/>
 
-<!-- End here ... -->
-
-<br>
-
-<!-- Connect with me,languages & tools icons. -->
-
-<!-- Start Here   -->
+#### **Learning:**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
+#### **Languages:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
 
-### 👩‍💻 Languages and Tools
+#### **Libraries & Frameworks:**
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+#### **Database**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<!-- #### **Hosting and Server:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
 
-<!-- End here -->
+#### **Familiar OS:**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!-- Blog Post with dynamically update using GitHub Workflow -->
+#### **Tools:**
+<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
+<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Start here -->
-<!--
-### 📕 Latest Blog Posts
--->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+#### **IDEs and Applications:**
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-<!-- ➡️ [more blog posts...]() -->
+#### **Competitive Programming:**
+- Codeforces [@k_rishabh](https://codeforces.com/profile/k_rishabh)
+- Codechef [@k_rishabh](https://www.codechef.com/users/k_rishabh)
+- Atcoder [@k_rishabh6172](https://atcoder.jp/users/k_rishabh6172)
+- Leetcode [@k_rishabh](https://leetcode.com/k_rishabh/)
 
-<!-- End here -->
-
-<!-- YouTube Videos with dynamically update using GitHub Workflow -->
-
-<!-- Start here -->
-<!-- ### 📕 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<!-- End here -->
-
-<!-- Adding git Stats, Streaks to take your profile on the another level. -->
-
-
-<!-- GitHub Stats  Start here -->
-
-### 👩‍💻 Account Statistics
-    
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=k-rishabh6172&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- End here -->
-
-<!-- GitHub Straks  Start here -->
-<!--
-<details>
-  <summary> 📈 &nbsp; <i>My Streak</i></summary>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=k-rishabh6172&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-</details>
--->
-<!-- End here -->
-
-
-
+#### **Reach Me:**
+- LinkedIn [@krishabh6172](https://linkedin.com/in/krishabh6172) 
+- Twitter [@krishabh6172](https://twitter.com/k_rishabh6172)
+- Personal E-mail krishabh07022019@gmail.com
