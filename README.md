@@ -8,7 +8,7 @@
 #### **About Me:**
 rishabh go weeee...
 
-![snake gif](https://github.com/k-rishabh6172/k-rishabh6172/blob/output/github-contribution-grid-snake.svg)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=k_rishabh&theme=dark&disable_animations=false&show_icons=true&force_username=false)
 
 #### **Learning:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
